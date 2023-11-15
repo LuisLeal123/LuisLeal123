@@ -15,6 +15,6 @@ over the years, and allow for website visitors to be able to request commissions
 🎓 First Generation college graduate   
 🦉 Rice 2023
 
-Links below 👇     
+Other links below 👇     
 💼 LinkedIn - https://www.linkedin.com/in/luisleal23/      
 🔬 Past Research - https://www.kavrakilab.org/
