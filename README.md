@@ -1,4 +1,4 @@
-Software Developer. Apply passion into everything you do.
+Software Developer. Apply passion into everything you do.     
 🦉 Rice 2023
 
 Links below 👇     
