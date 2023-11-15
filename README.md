@@ -9,7 +9,7 @@ those in which I believe first hand would be helpful to those around me.
 
 🎨 Creative Website - For my first in-depth website to be built, I plan to showcase my best friend's art. Jesse James, the artist for my hometown's
 mural, has worked extensively over the years in paintings, drawings, chalk art, and now tattoos. I want to be able to showcase his work
-over the years, and allow for website visitors to be able to request commissions for drawings. 
+over the years, and allow for website visitors to be able to request commissions for drawings. His mural can be seen here: https://www.instagram.com/p/Cyg-AsFx4EI/?img_index=1
    
     
 🎓 First Generation college graduate   
