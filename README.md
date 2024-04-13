@@ -1,4 +1,4 @@
-Software Developer. Apply passion into everything you do.     
+Software Dev   
     
 Much of my public repositories here are small projects I do when I have free time.   
 
