@@ -1,6 +1,6 @@
 Software Dev   
     
-Much of my public repositories here are small projects I do when I have free time.   
+Much of my public repositories here are small projects I do when I have free time. Private repositories are for what I've worked on.  
 
 💻 My current projects:   
 📓 IOS Sudoku app - Inspired by Dr. Tapia and his belief in using math to reduce the odds of brain disorders from old age, I hope to create
@@ -12,8 +12,7 @@ mural, has worked extensively over the years in paintings, drawings, chalk art, 
 over the years, and allow for website visitors to be able to request commissions for drawings. His mural can be seen here: https://www.instagram.com/p/Cyg-AsFx4EI/?img_index=1
    
     
-🎓 First Generation college graduate   
-🦉 Rice 2023
+Rice 2023, first-gen alumni.
 
 Other links below 👇     
 💼 LinkedIn - https://www.linkedin.com/in/luisleal23/      
